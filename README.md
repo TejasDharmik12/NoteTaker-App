@@ -22,19 +22,19 @@ Tools used:
 <b>Home Page:</b>
 <br>
 <div align="center">
-    <img src="home.png" width="650px"</img> 
+    <img src="home.png" width="600px"</img> 
 </div>
 
 <b>Add Note:</b>
 <br>
 <div align="center">
-    <img src="add.png" width="650px"</img> 
+    <img src="add.png" width="600px"</img> 
 </div>
 
 <b>Show Notes:</b>
 <br>
 <div align="center">
-    <img src="showall.png" width="650px"</img> 
+    <img src="showall.png" width="600px"</img> 
 </div>
 
 
