@@ -24,13 +24,13 @@ Tools used:
 <div align="center">
     <img src="home.png" width="600px"</img> 
 </div>
-
+<br>
 <b>Add Note:</b>
 <br>
 <div align="center">
     <img src="add.png" width="600px"</img> 
 </div>
-
+<br>
 <b>Show Notes:</b>
 <br>
 <div align="center">
